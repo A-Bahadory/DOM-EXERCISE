@@ -1,0 +1,11 @@
+.list-items {
+  background-color: orange;
+  padding: 10px;
+  margin: 10px;
+}
+#main-heading {
+  color: orange;
+  background-color: orchid;
+  font-size: large;
+  font-family: cursive;
+}
